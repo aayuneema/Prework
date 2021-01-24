@@ -4,7 +4,7 @@
 
 Submitted by: **Aayushi Neema**
 
-Time spent: **2** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
@@ -15,19 +15,25 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 
-* [ ] UI animations
+* [ ] Dark mode
+* [ ] Settings page to change tip percentages
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/c6cvUgz.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+**Challenges that were encountered** 
+* [ ] Having either dark or light mode already enabled when opening the application for the 1st time
+
+**Additional features in the future**
+* [ ] Ability to perform calculations using local-specific currency
+* [ ] Ability to store the user's previous calculations
 
 ## License
 
